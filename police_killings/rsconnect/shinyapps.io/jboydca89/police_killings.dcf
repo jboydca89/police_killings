@@ -1,0 +1,12 @@
+name: police_killings
+title: police_killings
+username:
+account: jboydca89
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 2460254
+bundleId: 3274873
+url: https://jboydca89.shinyapps.io/police_killings/
+when: 1592273337.54445
+asMultiple: FALSE
+asStatic: FALSE
